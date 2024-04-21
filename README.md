@@ -1,7 +1,9 @@
+
 <h1 align="center">Hi 👋, I'm S.Jayadrithareddy</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="coding" width="400" src= "https://media.giphy.com/media/ko7twHhomhk8E/giphy.gif">
+<img align="right" alt="coding" width="400" src= "![image](https://github.com/Jayadrithareddy/Jayadrithareddy/assets/167671070/3199e815-13ec-49dd-9040-fd5f85186dba)
+">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jayadrithareddy" alt="jayadrithareddy" /></a> </p>
 
